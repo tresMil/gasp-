@@ -1,0 +1,484 @@
+
+#EXTM3U
+
+
+
+#EXTINF:-1,Telemundo☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/497.m3u8
+
+#EXTINF:-1,EstrellaTv☆Guap@sTv☆
+http://cincomas.x10.bz/1wrqw.php/estrellatv/stream5/streamPlaylist.m3u8
+
+#EXTINF:-1,Univision Now☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/494.m3u8
+
+#EXTINF:-1,Unimas☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/498.m3u8
+
+#EXTINF:-1,TLNovelas☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/502.m3u8
+
+#EXTINF:-1,TDN☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/527.m3u8
+
+#EXTINF:-1,UTDN☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/530.m3u8
+
+#EXTINF:-1,RCN☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/503.m3u8
+
+#EXTINF:-1,TLMundo☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/504.m3u8
+
+#EXTINF:-1,Tv5 Monde☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/507.m3u8
+
+#EXTINF:0,Azteca Uno☆Guap@sTv☆
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:0,Azteca +☆Guap@sTv☆
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:0,Azteca A☆Guap@sTv☆
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:0,Azteca 13☆Guap@sTv☆
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:1,Cinema☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/572.m3u8
+
+#EXTINF:-1,MULTIMEDIOS☆Guap@sTv☆
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="ENTRETENIMIENTO",Multimedios (Mexico)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,Caracol☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/878.m3u8?Guap@sTv
+
+#EXTINF:-1,RCN☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/880.m3u8?Guap@sTv
+
+#EXTINF:-1,CANAL10 CHIS☆Guap@sTv☆
+http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
+
+#EXTINF:-1,WipR☆Guap@sTv☆
+http://api.new.livestream.com/accounts/16550960/events/8077197/live.m3u8
+
+#EXTINF:-1,ID fashion☆Guap@sTv☆
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
+#EXTINF:-1,EfectoTv☆Guap@sTv☆
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-p.m3u8
+
+#EXTINF:-1,Radio Formula☆Guap@sTv☆
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8 
+
+#EXTINF:-1,TeleMax☆Guap@sTv☆
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:0,CANAL 22☆Guap@sTv☆
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+
+#EXTINF:-1, RCG SD☆Guap@sTv☆
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1,RCG 2 SD☆Guap@sTv☆
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1,Terrasa Spain☆Guap@sTv☆
+http://173.212.214.184:1935/terrassaweb/terrassaweb/.m3u8 
+
+#EXTINF:-1,ADN 40☆Guap@sTv☆
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ADN 40☆Guap@sTv☆
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1,Milenio☆Guap@sTv☆
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1, Canal 11☆Guap@sTv☆
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+
+#EXTINF:-1,TV Mas Mx☆Guap@sTv☆
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+
+#EXTINF:-1,Lequipe☆Guap@sTv☆
+http://ec.playmedia.fr/lequipe21/live/.m3u8 
+
+#EXTINF:-1,Arirang☆Guap@sTv☆
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1, Canal 8 Mx☆Guap@sTv☆
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1,Canal 22 Mx☆Guap@sTv☆
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?Guap@sTv
+
+#EXTINF:-1,Canal 10 Mx☆Guap@sTv☆
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1,Canal 11 Mx☆Guap@sTv☆
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?Guap@sTv
+
+#EXTINF:-1, 21 CDMX☆Guap@sTv☆
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1,La Rioja☆Guap@sTv☆
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1,DiscoveryWorld☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/510.m3u8
+
+#EXTINF:-1,France24☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/689.m3u8
+
+#EXTINF:-1,DISCOVETY CIV☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/3135.ts
+
+#EXTINF:-1,H&H☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/2353.ts
+
+
+#EXTINF:-1, ▂ ▄ ▅ ▆☆KIDS☆▆ ▅ ▄ ▂ 
+http://
+
+
+#EXTINF:-1,Disney Jr☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/533.m3u8
+
+#EXTINF:-1,XD☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/532.m3u8
+
+#EXTINF:-1,DiscoveryJr☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/533.m3u8
+
+#EXTINF:-1,Nick Jr ☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/535.m3u8
+
+#EXTINF:-1,Boomerang☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/538.m3u8
+
+#EXTINF:-1,Cartoon☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/539.m3u8
+
+
+#EXTINF:-1, ▂ ▄ ▅ ▆☆PREMIUM☆▆ ▅ ▄ ▂ 
+http://
+
+
+#EXTINF:-1,HBO☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1594.ts
+
+#EXTINF:-1,HBO2☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/600.m3u8
+
+#EXTINF:-1,HBO PLUS☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/601.m3u8
+
+#EXTINF:-1,HBO FAMILY☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/603.m3u8
+
+#EXTINF:-1,FOX CLASSIC☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/608.ts
+
+#EXTINF:-1,FOX COMEDY☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/607.ts
+
+#EXTINF:-1,GOLDEN PRE☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/577.m3u8
+
+#EXTINF:-1,FOX☆Guap@sTv☆
+http://streams.tvxweb.net:5196/live/apk_developer/MB57pBePGL/1800.m3u8
+
+#EXTINF:-1,AMC☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/585.m3u8
+
+#EXTINF:-1,TCM☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/587.m3u8
+
+#EXTINF:-1,FX☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/590.m3u8
+
+#EXTINF:-1,WB☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/546.m3u8
+
+#EXTINF:-1,FX☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/548.m3u8
+
+#EXTINF:-1,TNT SERIES☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/558.m3u8
+
+#EXTINF:-1,FOX LIFE☆Guap@sTv☆
+http://system.fpiptv.com:8080/live/Hflouren/GDsvf34t4/559.m3u8
+
+#EXTINF:-1,HBO☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1594.ts
+
+#EXTINF:-1,HBO2☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/2804.ts
+
+#EXTINF:-1,HBO PLUS☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/593.ts
+
+#EXTINF:-1,HBO FAMILY☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/598.ts
+
+#EXTINF:-1,HBO SIGNATUR☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/592.ts
+
+#EXTINF:-1,F0X☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/262.ts
+
+#EXTINF:-1,CINEMAX☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1384.ts
+
+#EXTINF:-1,TNT☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/2809.ts
+
+#EXTINF:-1,STUDIO☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/267.ts
+
+#EXTINF:-1,GOLDEN☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1720.ts
+
+#EXTINF:-1,TCM☆Guap@sTv☆
+http://aleman.mine.nu:8000/live/oscar1/oscar1/1719.ts
+
+
+
+#EXTINF:-1, ▂ ▄ ▅ ▆☆SPAIN☆▆ ▅ ▄ ▂ 
+http://
+
+
+
+#EXTINF:-1,BE MAD☆Guap@sTv☆
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1,Divinity☆Guap@sTv☆
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+
+#EXTINF:-1,Tele Madrid☆Guap@sTv☆
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1,LaOtra☆Guap@sTv☆
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+
+#EXTINF1,Nova☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/897.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,Mega☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/893.m3u8?Guap@sTv
+
+#EXTINF:-1,LANCELOT☆Guap@sTv☆
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1,ODISEA☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/953.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,LA XARXA☆Guap@sTv☆
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:0,TV3☆Guap@sTv☆
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+
+#EXTINF:-1,DIVINITY ☆Guap@sTv☆
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,CRIMEN IC ☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/948.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,LA 1 ☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/887.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,FDF☆Guap@sTv☆
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,TELE 5☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/891.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,LA SEXTA 6☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/892.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,ANTENA 3☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/893.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,NEOX 3☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/894.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,FDF☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/895.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,CALLE 13☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/964.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,DIVINITY☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/896.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,NOVA☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/897.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,TNT☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/977.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,COMEDY C☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/921.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,AXN WHITE☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/916.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,AMC☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/913.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,E!☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/898.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,TCM☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/914.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,AXN☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/915.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,FOX HD☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/917.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,FOX LIFE☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/918.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,SYFY☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/919.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,CRIMEN IC☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/948.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,A&E☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/949.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,DISCOVERYCH☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/950.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,HISTORY☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/952.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,NAT GEO☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/955.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,NATGEO WILL☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/956.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,LA LIGA ☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/931.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,#V ☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/942.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,MOTO GP☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/945.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,V Sport☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/942.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,Movi Liga☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/931.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,Bein Sport☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/926.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,M DEPORTES☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/941.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,M DEPORTES2☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/911.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,M FUTBOL☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/924.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,LA LIGA☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/905.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,#0☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/911.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,TOROS☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/946.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,Being Sp ñ☆Guap@sTv☆
+http://disfruta.club:8000/live/8bL4CJDX4J/hBqb8GpAwI/144.m3u8
+
+#EXTINF:-1,Real Madrid☆Guap@sTv☆
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1,BARSA☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/954.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,NICKELODEON☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/957.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,BABY TV☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/962.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,DisneyChanel☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/959.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,Panda☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/958.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,HOLLYWOOD☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/912.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,M ACCION☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/903.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,M DRAMA☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/905.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,M ESTRENOS☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/906.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,M SERIES☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/907.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,M CINE Ñ☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/910.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,McineDoc&Roll☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/909.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,Mcomedia☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/904.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,Mestrenos☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/906.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,FDF☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/895.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,La 2☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/888.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,BEMAD☆Guap@sTv☆
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF1,Odisea☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/953.m3u8?Guap@sTv.m3u8
+
+#EXTINF1,Cocina☆Guap@sTv☆
+http://ns503701.ip-192-99-100.net:8080/live/Hflouren/GDsvf34t4/947.m3u8?Guap@sTv.m3u8
+
+#EXTINF:-1,Lacelot☆Guap@sTv☆
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1,La Cuatro☆Guap@sTv☆
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/616/index.m3u8
+
+#EXTINF:-1,La Sexta☆Guap@sTv☆
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/618/index.m3u8
+
+#EXTINF:-1,LaSexta☆Guap@sTv☆
+https://livepull1.secure.footprint.net/lasextampp/bitrate_1.m3u8
+
+#EXTINF:-1,Factoria☆Guap@sTv☆
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
